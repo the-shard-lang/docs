@@ -1,4 +1,4 @@
-![logo](_media/Shard.svg)
+![logo](_media/Shard128.png)
 
 # Shard <small>1.0.0</small>
 

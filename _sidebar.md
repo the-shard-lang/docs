@@ -1,3 +1,5 @@
 - Getting started
   - [Installation](Installation.md)
   - [Setup project](SetupProject.md)
+- Basics
+  - [Variables](Variables.md)

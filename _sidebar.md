@@ -3,3 +3,4 @@
   - [Setup project](SetupProject.md)
 - Basics
   - [Variables](Variables.md)
+  - [Types](Types.md)

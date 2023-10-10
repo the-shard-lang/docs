@@ -13,7 +13,10 @@ var health: int = 100;
 As mentioned earlier, variables store the data of the program. We can get a data from a variable using the name of that variable.
 ```js
 var amount: int = 10;
-var amountSquared: int = amount * amount; // value = 100
+var amountSquared: int = amount * amount;
+
+Console.write(amount); // output = 10
+Console.write(amountSquared); // output = 100
 ```
 ## Setting the value
 In addition to getting the value from a variable, we can also set it in the program.

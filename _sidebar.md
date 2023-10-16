@@ -2,5 +2,6 @@
   - [Installation](Installation.md)
   - [Setup project](SetupProject.md)
 - Basics
+  - [Hello World](HelloWorld.md)
   - [Variables](Variables.md)
   - [Types](Types.md)

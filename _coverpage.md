@@ -8,7 +8,7 @@
 * Easy to learn and use
 * Safe garbage collector
 
-[GitHub](https://github.com/Monowaves/Shard)
 [Get Started](#shard)
+[GitHub](https://github.com/Monowaves/Shard)
 
 ![color](#f0f0f0)

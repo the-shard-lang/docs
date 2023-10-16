@@ -15,21 +15,13 @@ As mentioned earlier, variables store the data of the program. We can get a data
 var amount: int = 10;
 var amountSquared: int = amount * amount;
 
-Console.write(amount); // output = 10
-Console.write(amountSquared); // output = 100
+Console.write(amount); // output: 10
+Console.write(amountSquared); // output: 100
 ```
 ## Setting the value
 In addition to getting the value from a variable, we can also set it in the program.
 ```js
 var health: int = 100;
-Console.write(health); // output = 100
+Console.write(health); // output: 100
 health = 50;
-Console.write(health); // output = 50
-```
-## Constants
-Constants are the same as variables, only their value cannot be changed. To declare a constant, you must use the "const" keyword.
-```js
-const PI: flt = 3.145;
-
-PI = 5; // ERROR!
-```
+Console.write(health); // output: 50
